@@ -1,2 +1,2 @@
-version=1.2.3
-url=https://example.com/installer/setup.exe
+version=1.0.9.6
+fouceUpdate=1
