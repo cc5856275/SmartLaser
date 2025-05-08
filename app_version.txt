@@ -1,3 +1,3 @@
 version=1.0.9.8
-fouceUpdate=0
+fouceUpdate=1
 url=https://raw.githubusercontent.com/cc5856275/SmartLaser/main/SmartLaser.msi
