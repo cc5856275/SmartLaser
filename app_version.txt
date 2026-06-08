@@ -1,4 +1,4 @@
 version=1.1.8.1
 fouceUpdate=0
 url=https://raw.githubusercontent.com/cc5856275/SmartLaser/main/SmartLaser.msi
-releaseNote=1. 修复了若干bug \r\n2. 优化了性能\r\n3. 新增自动连筋; 文字弧排\矩形排列; 若干子功能。
+releaseNote=1. 修复文字竖排显示问题等若干bug。 \r\n2. 优化性能。\r\n3. 新增尺寸过滤功能; 若干子功能。
