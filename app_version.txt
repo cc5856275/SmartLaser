@@ -1,4 +1,4 @@
-version=1.0.9.1
+version=1.2.9.1
 fouceUpdate=0
 url=https://smartlaserpro.com.cn/downloads/SmartLaser.msi
 releaseNote=1. 增加一键提取轮廓线自动巡边功能（包括网格切割、矩阵切割）\r\n
